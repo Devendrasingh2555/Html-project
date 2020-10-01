@@ -8,7 +8,7 @@
     <link rel="stylesheet" media="only screen and (max-width: 1200px)" href="phone.css">
     <link href="https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&display=swap" rel="stylesheet">
-    <title>Order Food Online | MyOnlineMeal.com</title>
+    <title>Order The Food Online || MyOnlineMeal.com</title>
 </head>
 <body>
     <nav id="navbar">
@@ -24,7 +24,7 @@
         </ul>
     </nav>
     <section id="home">
-        <h2 class="heading">Welcome to MyOnlineMeal</h2>
+        <h2 class="heading">Welcome to My Online Meal</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque optio libero temporibus quisquam atque minima!</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta, earum.</p>
         <button class="btn">Order Now!</button>
